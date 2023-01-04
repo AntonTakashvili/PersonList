@@ -1,0 +1,14 @@
+C:\Users\anton\source\repos\Mssqlconnection\bin\Debug\Mssqlconnection.exe.config
+C:\Users\anton\source\repos\Mssqlconnection\bin\Debug\Mssqlconnection.exe
+C:\Users\anton\source\repos\Mssqlconnection\bin\Debug\Mssqlconnection.pdb
+C:\Users\anton\source\repos\Mssqlconnection\obj\Debug\Mssqlconnection.csproj.AssemblyReference.cache
+C:\Users\anton\source\repos\Mssqlconnection\obj\Debug\Mssqlconnection.csproj.SuggestedBindingRedirects.cache
+C:\Users\anton\source\repos\Mssqlconnection\obj\Debug\Mssqlconnection.Form1.resources
+C:\Users\anton\source\repos\Mssqlconnection\obj\Debug\Mssqlconnection.Properties.Resources.resources
+C:\Users\anton\source\repos\Mssqlconnection\obj\Debug\Mssqlconnection.csproj.GenerateResource.cache
+C:\Users\anton\source\repos\Mssqlconnection\obj\Debug\Mssqlconnection.csproj.CoreCompileInputs.cache
+C:\Users\anton\source\repos\Mssqlconnection\obj\Debug\Mssqlconnection.exe
+C:\Users\anton\source\repos\Mssqlconnection\obj\Debug\Mssqlconnection.pdb
+C:\Users\anton\source\repos\Mssqlconnection\bin\Debug\System.Data.SqlClient.dll
+C:\Users\anton\source\repos\Mssqlconnection\bin\Debug\System.Data.SqlClient.xml
+C:\Users\anton\source\repos\Mssqlconnection\obj\Debug\Mssqlconnection.csproj.CopyComplete
